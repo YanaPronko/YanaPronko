@@ -23,7 +23,6 @@ I'm a Junior Frontend Developer :computer:
 - 📫 How to reach me:
    :email: YaniaR@tut.by
   [![Linkedin Badge](https://img.shields.io/badge/Linkendin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-pranko-71117a206/)
-  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@YanaPronko)
   [![Discord Badge](https://img.shields.io/badge/Discord-blue?style=flat&logo=Telegram&logoColor=white)](YaniaR(YanaPronko))
 
 ---
