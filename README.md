@@ -56,7 +56,7 @@ I'm a Junior Frontend Developer :computer:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanaPronko&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :brain: Codewars :
-[![codewars](https://www.codewars.com/users/YanaPranko)](https://www.codewars.com/users/YanaPranko)   
+[![codewars](https://www.codewars.com/users/YanaPranko/badges/large)](https://www.codewars.com/users/YanaPranko)   
 
 ---
 ### ⚡ For Fun: 
