@@ -21,7 +21,7 @@ I'm a Junior Frontend Developer :computer:
 - 🔭 I’m currently working on upgrading my skills
 - :mage_woman: Dreaming became a fullstack developer
 - 📫 How to reach me:
-- :email: YaniaR@tut.by
+- :email: Yaniarz89@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/Linkendin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yana-pranko-71117a206/)
 - [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YanaPronko)
   
